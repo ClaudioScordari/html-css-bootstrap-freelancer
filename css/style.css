@@ -1,7 +1,15 @@
 /* 
+    DEBUG 
+*/
+.ms_card {
+    border: 2px solid black;
+}
+
+/* 
     GENERAL 
 */
-header {
+header,
+.ms_about {
     color: white;
 }
 
@@ -13,7 +21,8 @@ header {
     background-color: #2C3E50;
 }
 
-.header_bottom {
+.header_bottom,
+.ms_about {
     background-color: #1ABC9C;
 }
 

@@ -13,18 +13,18 @@ header,
     color: white;
 }
 
-
-/* 
-    HEADER 
-*/
-.header_top {
-    background-color: #2C3E50;
-}
-
 .header_bottom,
 .ms_about {
     background-color: #1ABC9C;
 }
+
+.header_top {
+    background-color: #2C3E50;
+}
+
+/* 
+    HEADER 
+*/
 
 
 /* 

@@ -1,52 +1,14 @@
 /* 
     SMALL DEVICES - sm 
 */
-@media screen and (min-width: 576px) {
-
-    /* 
-        COLUMNS 
-    */
-
-
-
-    /* 
-        MARGIN 
-    */
-
-
-}
+@media screen and (min-width: 576px) {}
 
 /* 
     MEDIUM DEVICES - md
 */
-@media screen and (min-width: 768px) {
-
-    /* 
-        COLUMNS 
-    */
-
-
-
-    /* 
-        MARGIN 
-    */
-
-
-}
+@media screen and (min-width: 768px) {}
 
 /* 
     LARGE DEVICES - lg
 */
-@media screen and (min-width: 992px) {
-
-    /* 
-        COLUMNS 
-    */
-
-
-    /* 
-        MARGIN 
-    */
-
-
-}
+@media screen and (min-width: 992px) {}

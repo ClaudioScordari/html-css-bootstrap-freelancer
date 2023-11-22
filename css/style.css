@@ -1,17 +1,22 @@
-/* RESET */
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
 /* 
     GENERAL 
 */
+header {
+    color: white;
+}
+
 
 /* 
     HEADER 
 */
+.header_top {
+    background-color: #2C3E50;
+}
+
+.header_bottom {
+    background-color: #1ABC9C;
+}
+
 
 /* 
     MAIN 

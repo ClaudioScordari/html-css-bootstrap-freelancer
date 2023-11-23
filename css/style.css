@@ -69,3 +69,29 @@ button {
 /* 
     FOOTER 
 */
+footer {
+    color: white;
+}
+
+footer .ms_footer-top {
+    background-color: #3A546D;
+}
+
+footer .ms_footer-bottom {
+    background-color: #2C3E50;
+}
+
+.ms_icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.ms_icon {
+    line-height: 60px;
+}
+
+footer a {
+    color: green;
+}

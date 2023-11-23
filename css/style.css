@@ -1,9 +1,6 @@
 /* 
     DEBUG 
 */
-.ms_card {
-    border: 2px solid black;
-}
 
 /* 
     GENERAL 
@@ -34,6 +31,10 @@ header a {
     color: black;
 }
 
+img {
+    width: 100%;
+}
+
 /* 
     HEADER 
 */
@@ -44,6 +45,10 @@ header a {
 /* 
     MAIN 
 */
+.ms_card {
+    100%
+}
+
 
 /* 
     FOOTER 

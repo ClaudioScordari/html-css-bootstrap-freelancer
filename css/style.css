@@ -37,7 +37,9 @@ header a {
 /* 
     HEADER 
 */
-
+.ms_img-avatar {
+    width: 250px;
+}
 
 /* 
     MAIN 

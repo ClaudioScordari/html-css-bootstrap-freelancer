@@ -22,6 +22,18 @@ header,
     background-color: #2C3E50;
 }
 
+a {
+    text-decoration: none;
+}
+
+header a {
+    color: white;
+}
+
+.ms_contact a {
+    color: black;
+}
+
 /* 
     HEADER 
 */

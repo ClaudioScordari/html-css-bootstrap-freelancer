@@ -50,6 +50,22 @@ main a {
     border: 1px solid white;
 }
 
+input,
+textarea {
+    width: 100%;
+    border-color: lightgrey;
+}
+
+textarea {
+    height: 150px;
+}
+
+button {
+    background-color: #1ABC9C;
+    color: white;
+    border: none;
+}
+
 /* 
     FOOTER 
 */
